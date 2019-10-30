@@ -141,12 +141,12 @@
         <div class="row">
           <div class="col-lg-4 ml-auto text-center">
             <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
-            <p>123-456-67890</p>
+            <p>123-456-1234</p>
           </div>
           <div class="col-lg-4 mr-auto text-center">
             <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
             <p>
-              <a href="mailto:your-email@your-domain.com">AutomationGroup@infosys.com</a>
+              <a href="mailto:your-email@your-domain.com">AutomationGrouphyd@infosys.com</a>
             </p>
           </div>
         </div>
